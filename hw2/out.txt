@@ -1,0 +1,110 @@
+MATCH ID            PLAYER NAME              KILL PART.     GRADE
+1778933327          ERAQAQAQAR                   65.9 %         S
+1778933327          AquaNova                     65.0 %         S
+1778933327          D0odleBob                    58.5 %         A
+1778933327          guardianForceX               56.7 %         A
+1778933327          ZeLLBaby                     55.0 %         A
+1778933327          SauceShooter                 46.3 %         A
+1778933327          Hebs                         45.0 %         A
+1778933327          LaKeA                        41.5 %         A
+1778933327          Bizu                         40.0 %         A
+1778933327          JrBatman                     31.7 %         B
+
+1778934506          Yoreo                        90.3 %         S
+1778934506          Ind0                         56.0 %         A
+1778934506          EzXin                        50.0 %         A
+1778934506          DonMinator                   48.0 %         A
+1778934506          Massacre10                   45.2 %         A
+1778934506          TSMBumbus                    44.0 %         A
+1778934506          JaxintheBox                  41.9 %         A
+1778934506          RoofEooooH                   36.0 %         B
+1778934506          TheOneWhoHunts               32.0 %         B
+1778934506          XianJin                      27.4 %         B
+
+1778936129          Coriolis                    118.2 %         S
+1778936129          l3araka                      60.6 %         S
+1778936129          Jatanasio                    58.3 %         A
+1778936129          FFXIIISnow                   50.0 %         A
+1778936129          gtrfd03                      50.0 %         A
+1778936129          togidono                     45.5 %         A
+1778936129          DiamondSparkLing             41.7 %         A
+1778936129          KentaroOe                    36.4 %         B
+1778936129          JustPlay                     24.2 %         C
+1778936129          someloveu                    16.7 %         C
+
+1778937369          DrJackel                     65.6 %         S
+1778937369          MrNizzy                      65.6 %         S
+1778937369          LesbianRobot                 62.5 %         S
+1778937369          Akubakemono                  50.0 %         A
+1778937369          Obi1conknowbe                43.8 %         A
+1778937369          Pydima                       37.5 %         B
+1778937369          pinz38                       37.5 %         B
+1778937369          TheAlmightyDigRa             28.1 %         B
+1778937369          nisanasa                     25.0 %         B
+1778937369          Sephiroths                   12.5 %         D
+
+1778940456          Agatroth15862                60.5 %         S
+1778940456          DibsOnVayne                  51.1 %         A
+1778940456          enragedflamingo              51.1 %         A
+1778940456          Ronnizzy                     50.0 %         A
+1778940456          Joshiewah                    47.4 %         A
+1778940456          MatumotoKen                  47.4 %         A
+1778940456          Kheydotzx                    44.4 %         A
+1778940456          bigslick417                  42.1 %         A
+1778940456          Cry0F1r3                     35.6 %         B
+1778940456          Eskuhmoh                     35.6 %         B
+
+1778942262          Schaibs                      96.2 %         S
+1778942262          StarrFish                    76.7 %         S
+1778942262          DangeRussWiIson              56.7 %         A
+1778942262          200QBWOJIUAFK                50.0 %         A
+1778942262          OOSalty                      50.0 %         A
+1778942262          Xakari                       50.0 %         A
+1778942262          lSpaceYungJook               50.0 %         A
+1778942262          CaptainFizz                  36.5 %         B
+1778942262          GODVA                        34.6 %         B
+1778942262          Swerdfeger                   23.3 %         C
+
+1778979165          S2MaRtin                    236.4 %         S
+1778979165          FucKing                     190.9 %         S
+1778979165          Ramzyisbad                   59.1 %         A
+1778979165          IbTaeyeon                    50.0 %         A
+1778979165          Anhmeister                   40.9 %         A
+1778979165          LifeForAiur                  40.9 %         A
+1778979165          AhriComming                  36.4 %         B
+1778979165          Coriolis                      0.0 %         D
+1778979165          Schaibs                       0.0 %         D
+1778979165          Yoreo                         0.0 %         D
+
+1779004846          Conn3ction                  100.0 %         S
+1779004846          ChinatownStreet              92.9 %         S
+1779004846          Happypig12                   85.7 %         S
+1779004846          KanchoLegion                 64.3 %         S
+1779004846          ItsMeYourMom                 60.0 %         S
+1779004846          PittL                        50.0 %         A
+1779004846          xBrutality                   40.0 %         A
+1779004846          XLargeBIGNoob                30.0 %         B
+1779004846          uTPTrollKingSin              30.0 %         B
+1779004846          DibsOnVayne                   0.0 %         D
+
+1779005298          FlashFeD                    100.0 %         S
+1779005298          Rukous                      100.0 %         S
+1779005298          Aykachan                     90.0 %         S
+1779005298          SoundArc                     90.0 %         S
+1779005298          Elisaberry                   50.0 %         A
+1779005298          Flyer02                      25.0 %         B
+1779005298          JMoneyPro                    25.0 %         B
+1779005298          StayAwesome                  25.0 %         B
+1779005298          DrJackel                      0.0 %         D
+1779005298          MrNizzy                       0.0 %         D
+
+1779006394          HazeElJefe                  300.0 %         S
+1779006394          InfernalBudgie              300.0 %         S
+1779006394          ThelastDestiny              300.0 %         S
+1779006394          82342421                    100.0 %         S
+1779006394          Calliee                      62.5 %         S
+1779006394          ImyourMaryJane               62.5 %         S
+1779006394          jockerZK                     50.0 %         A
+1779006394          ChaffererEr                  31.2 %         B
+1779006394          AquaNova                      0.0 %         D
+1779006394          guardianForceX                0.0 %         D
